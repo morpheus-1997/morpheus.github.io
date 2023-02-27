@@ -17,3 +17,6 @@ Github: https://github.com/socratesclub
 ## People
 ### Directer
 - Cheng-Jun Wang https://chengjun.github.io/
+
+
+🖋[Revise this page](https://github.com/SocratesClub/socratesclub.github.io/edit/master/_pages/about.md)
